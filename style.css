@@ -194,7 +194,9 @@ ul{
     text-align: center;
     padding: 6px;
     margin: 8px;
+    width: 33.3%;
     display: inline-block;
+    float: left;
     position: relative;
 }
 .plan-featured{
@@ -287,4 +289,9 @@ button{
     font-size: 30px;
     font-weight: 500;
     color: #fff;
+}
+.card{
+    background: #fff;
+    border-radius: 5px;
+    cursor: pointer;
 }
