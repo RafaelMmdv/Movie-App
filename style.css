@@ -294,4 +294,38 @@ button{
     background: #fff;
     border-radius: 5px;
     cursor: pointer;
+    box-shadow: 10px 10px 40px rgba(52, 58, 64, 0.1);
+    position: relative;
+    top: 0;
+    transition: all .4s;
+}
+.card:hover{
+    top: -20px;
+}
+.card-body{
+    padding: 30px;
+}
+.movie_cont{
+    width: 1000px;
+    text-align: center;
+    margin-left: 300px;
+}
+.img-fluid{
+    width: 100%;
+}
+.card-container{
+    padding: 10px;
+}
+.card_img{
+    max-height: 400px;
+}
+.btn{
+    background-color: #FC997C;
+    border-color: #FC997C;
+    border-radius: 3px;
+    padding: 8px;
+}
+.btn:hover{
+    background: #fff;
+    border-color: #FC997C;
 }
