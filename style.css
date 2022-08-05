@@ -260,7 +260,7 @@ button{
     right: 10px;
 }
 #backtotop i{
-    color: #FC997C;
+    color: #396EB0;
     font-size: 45px;
 }
 /* .counter{
@@ -354,7 +354,7 @@ footer a{
 footer{
     margin: 0;
     padding: 0;
-    height: 200px;
+    height: 150px;
 }
 footer ul li{
     list-style-type: none;
@@ -394,4 +394,7 @@ footer ul li{
     width: 50%;
     float: left;
     height: 200px;
+}
+.icon-box i{
+    color: #FC997C;
 }
