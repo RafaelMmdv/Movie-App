@@ -111,14 +111,7 @@ ul{
 #howitworks_p{
     margin-left: 250px; ;
 }
-/* #register_h{
-    margin-left: 150px;
-}
-#register_p{
-    text-align: center;
-    margin-left: 15px;
 
-} */
 #register{
     text-align: center;
 }
@@ -263,12 +256,7 @@ button{
     color: #396EB0;
     font-size: 45px;
 }
-/* .counter{
-    background-color: #FC997C;
-    height: 150px;
-    width: 100%;
-    background-position: bottom;
-} */
+
 .content h2 {
     text-align: center;
 }
