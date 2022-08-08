@@ -331,6 +331,7 @@ button{
 .btn:hover{
     background: #fff;
     border-color: #FC997C;
+    transition: 0.3s;
 }
 .social_m{
     background: #396EB0 ;
