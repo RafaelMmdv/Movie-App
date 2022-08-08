@@ -84,9 +84,11 @@ ul{
 }
 .main-nav__item:hover::before{
     color: #2E4C6D;
+    transition: 0.3s;
 }
 .main-nav__item a:hover{
     color: #2E4C6D;
+    transition: 0.3s;
 }
 .main-nav__item-login a{
     color: white;
@@ -192,6 +194,18 @@ ul{
     display: inline-block;
     float: left;
     position: relative;
+}
+.plan1{
+    background-color: #FC997C;
+    border-color: #FC997C;
+    border-radius: 3px;
+    padding: 8px;
+}
+.plan1:hover{
+    background-color:#fff ;
+    border-color: #FC997C;
+    cursor: pointer;
+    transition: 0.3s;
 }
 .plan-featured{
     position: relative;
