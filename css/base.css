@@ -239,7 +239,7 @@
  }
  
  .counter {
-     background: linear-gradient(to bottom, #fc997c 0%, #fc8b69 100%);
+     background: linear-gradient(to bottom, #ff3c00 0%, #ed6f48 100%);
      text-align: center;
      padding: 50px;
  }
@@ -264,8 +264,6 @@
      border-radius: 5px;
      cursor: pointer;
      box-shadow: 10px 10px 40px rgba(52,58,64,0.1);
-     /* position: relative; */
-     /* top: 0; */
      transition: all .3s;
  }
  .card:hover {
@@ -282,7 +280,7 @@
  }
  
  footer {
-     background-color: #2E4C6D;
+     background-color: #004fa4;
      padding: 30px;
      margin-top: 30px;
  
