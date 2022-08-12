@@ -61,7 +61,11 @@ body {
         width: 720px;
     }
 }
-
+@media (max-width: 768px){
+.col-3 .card-container {
+    margin-left: 2rem;
+    }
+}
 @media (min-width: 992px) { 
     .container {
         margin: 0 auto;
