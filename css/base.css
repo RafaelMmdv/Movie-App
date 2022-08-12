@@ -272,11 +272,14 @@
  }
  
  .card-image {
-     max-height: 350px;
+     max-height: 450px;
  }
  
  .card-body {
      padding: 30px;
+ }
+ .cont{
+    width: 85% !important;
  }
  
  footer {
