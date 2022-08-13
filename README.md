@@ -1,3 +1,3 @@
 # Movie-App
 Netlify:
-https://zingy-sable-ed1233.netlify.app/
+https://lustrous-cannoli-b968d7.netlify.app/

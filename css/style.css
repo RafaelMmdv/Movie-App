@@ -66,6 +66,13 @@ body {
     margin-left: 2rem;
     }
 }
+
+@media (max-width: 768px){
+    #social-links{
+        flex-direction: column;
+    }
+}
+
 @media (min-width: 992px) { 
     .container {
         margin: 0 auto;
